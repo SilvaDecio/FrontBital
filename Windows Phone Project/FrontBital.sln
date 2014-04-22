@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontBital", "FrontBital\FrontBital\FrontBital.csproj", "{018E3525-9B34-4C6F-B7D1-B435322A148B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontBitalContent", "FrontBital\FrontBitalContent\FrontBitalContent.contentproj", "{DBA0DE48-4C95-4D38-9DC7-7046F5967F19}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{018E3525-9B34-4C6F-B7D1-B435322A148B}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{018E3525-9B34-4C6F-B7D1-B435322A148B}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{018E3525-9B34-4C6F-B7D1-B435322A148B}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{018E3525-9B34-4C6F-B7D1-B435322A148B}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{018E3525-9B34-4C6F-B7D1-B435322A148B}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{018E3525-9B34-4C6F-B7D1-B435322A148B}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{DBA0DE48-4C95-4D38-9DC7-7046F5967F19}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{DBA0DE48-4C95-4D38-9DC7-7046F5967F19}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
